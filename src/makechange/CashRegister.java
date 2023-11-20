@@ -91,7 +91,5 @@ public class CashRegister {
 
 	}
 }
-// mod operator super usefull, looping not good for this //can be done entirely
-// in main method //leave out 0's //division operator important
 
 
